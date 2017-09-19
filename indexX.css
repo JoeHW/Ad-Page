@@ -1,0 +1,45 @@
+
+.jumbotron {
+    
+    text-align: center;
+    background-image: url("./simon-matzinger-320332.jpg");
+    background-position: 50% 55% ;
+    color: #eeee;
+    margin-top: 50px;
+}
+
+.heading-two {
+    
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px
+
+}
+
+.card-img-top {
+    
+    height: 200px;
+    width: 300px;
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+    border-radius: 5%    
+
+}
+
+body {
+    position: relative;
+}
+
+#app-store-icon {
+    width: 200px;
+}
+
+#footer {
+    background-color: aqua;
+    padding-top: 150px;
+    margin-top: 50px;
+    text-align: center;
+    padding-bottom: 150px;
+}
+
