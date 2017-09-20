@@ -37,8 +37,25 @@ body {
 
 #footer {
     background-color: aqua;
-    padding-top: 150px;
+    padding-top: 100px;
     margin-top: 50px;
     text-align: center;
-    padding-bottom: 150px;
+    padding-bottom: 100px;
+}
+
+.social {
+    height: 150px;
+    margin-top: 50px;
+    text-align: center;
+    padding: 50px;
+    
+}
+
+.bottom {
+    height: 50px;
+    padding-bottom: 20px;
+}
+
+.fa {
+    margin: 10px;
 }
