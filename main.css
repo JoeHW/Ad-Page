@@ -1,15 +1,15 @@
 
 .jumbotron {
-    
+
     text-align: center;
-    background-image: url("./simon-matzinger-320332.jpg");
+    background-image: url("./Images/simon-matzinger-320332.jpg");
     background-position: 50% 55% ;
     color: #eeee;
     margin-top: 50px;
 }
 
 .heading-two {
-    
+
     text-align: center;
     margin-top: 40px;
     margin-bottom: 40px
@@ -17,13 +17,13 @@
 }
 
 .card-img-top {
-    
+
     height: 200px;
     width: 300px;
-    margin: 0 auto; 
-    float: none; 
-    margin-bottom: 10px; 
-    border-radius: 5%    
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+    border-radius: 5%
 
 }
 
@@ -42,4 +42,3 @@ body {
     text-align: center;
     padding-bottom: 150px;
 }
-
