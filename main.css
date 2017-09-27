@@ -1,6 +1,5 @@
 
 .jumbotron {
-
     text-align: center;
     background-image: url("./Images/simon-matzinger-320332.jpg");
     background-position: 50% 55% ;
@@ -13,7 +12,6 @@
     text-align: center;
     margin-top: 40px;
     margin-bottom: 40px
-
 }
 
 .card-img-top {
@@ -24,7 +22,6 @@
     float: none;
     margin-bottom: 10px;
     border-radius: 5%
-
 }
 
 .card {
@@ -56,7 +53,6 @@ body {
     margin-top: 50px;
     text-align: center;
     padding: 50px;
-
 }
 
 .bottom {
@@ -66,4 +62,10 @@ body {
 
 .fa {
     margin: 10px;
+}
+
+.bio-text {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 1.5em;
+    text-align: center;
 }
