@@ -1,10 +1,11 @@
 
 .jumbotron {
     text-align: center;
-    background-image: url("./Images/simon-matzinger-320332.jpg");
-    background-position: 50% 55% ;
+    background-image: url("./Images/radu-mihai-276887.jpg");
+    background-position: 50% 15% ;
     color: #eeee;
     margin-top: 50px;
+    height: 450px;
 }
 
 .heading-two {
@@ -28,12 +29,25 @@
   border: none;
 }
 
+.card-title, .card-text {
+    text-align: center;
+}
+
+.feature {
+    text-align: center;
+}
+
 body {
     position: relative;
 }
 
 #app-store-icon {
-    width: 200px;
+    width: 220px;
+}
+
+#play-store-icon  {
+    height: 100px;
+    width: 250px;
 }
 
 #footer {
@@ -69,3 +83,16 @@ body {
     font-size: 1.5em;
     text-align: center;
 }
+
+.navbar-brand, .nav-link, .lead, .heading-two, .card-title, .card-text {
+      font-family: 'Exo 2', sans-serif;
+}
+
+.display-3 {
+  font-weight: bold;
+  font-family: 'Nixie One', cursive;
+}
+
+
+
+
