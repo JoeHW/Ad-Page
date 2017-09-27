@@ -27,6 +27,10 @@
 
 }
 
+.card {
+  border: none;
+}
+
 body {
     position: relative;
 }
@@ -36,11 +40,15 @@ body {
 }
 
 #footer {
-    background-color: aqua;
+    background-color: #007fff;
     padding-top: 100px;
     margin-top: 50px;
     text-align: center;
     padding-bottom: 100px;
+}
+
+.footer-head {
+  color: white;
 }
 
 .social {
@@ -48,7 +56,7 @@ body {
     margin-top: 50px;
     text-align: center;
     padding: 50px;
-    
+
 }
 
 .bottom {
